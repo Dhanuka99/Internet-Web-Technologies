@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2ebdec2-4f5d-4d0b-8c12-e18a5d025be5" name="Changes" comment="" />
+    <list default="true" id="c2ebdec2-4f5d-4d0b-8c12-e18a5d025be5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Hotel-Room-Reservation/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hotel-Room-Reservation/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-Room-Reservation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-Room-Reservation/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,7 +37,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1644781689674</updated>
       <workItem from="1644781691220" duration="473000" />
+      <workItem from="1644865815910" duration="2023000" />
+      <workItem from="1644867884003" duration="688000" />
     </task>
     <servers />
   </component>
@@ -55,5 +68,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
